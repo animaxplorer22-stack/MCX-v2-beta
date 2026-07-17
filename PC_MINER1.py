@@ -1,20 +1,4 @@
 #!/usr/bin/env python3
-"""
-MICROCORE PC MINER v1.0 — FULL FEATURES
-================================================================================
-A full-featured PC miner that connects directly to the node via WebSocket.
-Features:
-- ✅ Full registration with ECDSA secp256k1 signatures
-- ✅ Challenge response signing
-- ✅ Uptime tracking
-- ✅ Reward tracking
-- ✅ Level system support
-- ✅ Block signing
-- ✅ Auto-reconnect
-- ✅ Command line interface
-- ✅ Logging
-================================================================================
-"""
 
 import asyncio
 import json
