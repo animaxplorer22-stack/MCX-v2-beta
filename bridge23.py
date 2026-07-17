@@ -1,14 +1,4 @@
 #!/usr/bin/env python3
-"""
-MICROCORE WIFI BRIDGE v23.0 — RAW SERIAL FORCE READ (FIXED)
-================================================================================
-FIXES:
-- ✅ FORCE READ from serial port
-- ✅ DEBUG: Print raw bytes received
-- ✅ COM4 forced connection
-- ✅ FIXED f-string syntax error
-================================================================================
-"""
 
 import asyncio
 import serial
