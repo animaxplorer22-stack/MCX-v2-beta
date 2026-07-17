@@ -1,4 +1,4 @@
-// ==================== AVR FINAL — MINIMAL JSON ====================
+
 #include <EEPROM.h>
 #include <avr/wdt.h>
 #include <avr/pgmspace.h>
