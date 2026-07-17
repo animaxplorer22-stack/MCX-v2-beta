@@ -1,21 +1,4 @@
 #!/usr/bin/env python3
-"""
-MICROCORE (MCX) NODE v15.0 — COMPLETE DECENTRALIZED ECOSYSTEM
-================================================================================
-FIXES:
-- ✅ REGISTRATION COMPLETELY FIXED (Arduino miners now register properly!)
-- ✅ MINER SAVING FIXED (all 28 columns correctly handled)
-- ✅ REGISTER BRIDGE HANDLER ADDED
-- ✅ DEBUG LOGGING FOR REGISTRATION
-- ✅ INACTIVE MINER TIMEOUT FIXED (15 minutes)
-- ✅ DUCO PRICE FROM DEX (NOT FIXED!)
-- ✅ ZERO STARTING PRICE
-- ✅ MULTISIG BRIDGE (5 of 10 signatures)
-- ✅ FULL DEX WITH REAL PRICE DISCOVERY
-- ✅ PRIVATE KEY SUPPORT IN WEBWALLET
-- ✅ SQLITE COLUMN MISMATCH FIXED
-================================================================================
-"""
 
 import asyncio
 import json
